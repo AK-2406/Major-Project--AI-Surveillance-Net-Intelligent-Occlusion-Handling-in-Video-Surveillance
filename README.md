@@ -1,4 +1,4 @@
-# Major-Project-
+# Major-Project
 Project Name --> AI Surveillance Net: Intelligent Occlusion HAndling in Video Surveillance
 
 ## System Overview
